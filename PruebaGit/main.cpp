@@ -12,6 +12,7 @@ int main() {
 	std::cout << "Sum: " << sum;
 	std::cout << "Sum: " << sum;
 	std::cout << "Sum: " << sum;
+	std::cout << "Sum: " << sum; std::cout << "Sum: " << sum; std::cout << "Sum: " << sum;
 
 
 
